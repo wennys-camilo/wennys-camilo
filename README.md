@@ -1,4 +1,4 @@
-### Eu sou o Wennys Camilo
+### Wennys Camilo
 
 - 🔭 Estudando Flutter
 <div>
